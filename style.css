@@ -1,4 +1,6 @@
-body
-{
-
+.feet{
+    bottom: 0px;
+    position: sticky;
+    background-color: aqua;
+    border-top: aquamarine solid 10px;
 }
